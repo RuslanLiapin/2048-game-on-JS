@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# 2048
 
     - [DEMO LINK](https://ruslanliapin.github.io/2048-game-on-JS/)
 
